@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Responsive-Modern-UI-UX-Website-in-React-JS/static/css/main.af07c458.chunk.css",
+    "main.js": "/Responsive-Modern-UI-UX-Website-in-React-JS/static/js/main.5e0780f9.chunk.js",
+    "main.js.map": "/Responsive-Modern-UI-UX-Website-in-React-JS/static/js/main.5e0780f9.chunk.js.map",
+    "runtime-main.js": "/Responsive-Modern-UI-UX-Website-in-React-JS/static/js/runtime-main.f9f75ce4.js",
+    "runtime-main.js.map": "/Responsive-Modern-UI-UX-Website-in-React-JS/static/js/runtime-main.f9f75ce4.js.map",
+    "static/js/2.936cb177.chunk.js": "/Responsive-Modern-UI-UX-Website-in-React-JS/static/js/2.936cb177.chunk.js",
+    "static/js/2.936cb177.chunk.js.map": "/Responsive-Modern-UI-UX-Website-in-React-JS/static/js/2.936cb177.chunk.js.map",
+    "index.html": "/Responsive-Modern-UI-UX-Website-in-React-JS/index.html",
+    "static/css/main.af07c458.chunk.css.map": "/Responsive-Modern-UI-UX-Website-in-React-JS/static/css/main.af07c458.chunk.css.map",
+    "static/js/2.936cb177.chunk.js.LICENSE.txt": "/Responsive-Modern-UI-UX-Website-in-React-JS/static/js/2.936cb177.chunk.js.LICENSE.txt",
+    "static/media/ai.aa60586b.png": "/Responsive-Modern-UI-UX-Website-in-React-JS/static/media/ai.aa60586b.png",
+    "static/media/blog01.cefc0932.png": "/Responsive-Modern-UI-UX-Website-in-React-JS/static/media/blog01.cefc0932.png",
+    "static/media/blog02.ab0eb367.png": "/Responsive-Modern-UI-UX-Website-in-React-JS/static/media/blog02.ab0eb367.png",
+    "static/media/blog03.d9223238.png": "/Responsive-Modern-UI-UX-Website-in-React-JS/static/media/blog03.d9223238.png",
+    "static/media/blog04.742c1357.png": "/Responsive-Modern-UI-UX-Website-in-React-JS/static/media/blog04.742c1357.png",
+    "static/media/blog05.bfaa1c1e.png": "/Responsive-Modern-UI-UX-Website-in-React-JS/static/media/blog05.bfaa1c1e.png",
+    "static/media/logo.16efaf42.svg": "/Responsive-Modern-UI-UX-Website-in-React-JS/static/media/logo.16efaf42.svg",
+    "static/media/people.5cd2d6fb.png": "/Responsive-Modern-UI-UX-Website-in-React-JS/static/media/people.5cd2d6fb.png",
+    "static/media/possibility.525f13b6.png": "/Responsive-Modern-UI-UX-Website-in-React-JS/static/media/possibility.525f13b6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9f75ce4.js",
+    "static/js/2.936cb177.chunk.js",
+    "static/css/main.af07c458.chunk.css",
+    "static/js/main.5e0780f9.chunk.js"
+  ]
+}
